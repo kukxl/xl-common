@@ -1,4 +1,4 @@
-module xl-common
+module github.com/kukxl/xl-common
 
 go 1.16
 
